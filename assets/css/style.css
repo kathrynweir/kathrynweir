@@ -15,6 +15,12 @@ nav {
   padding-left: 0;
 }
 
+@media screen and (min-width: 901px) {
+  .crumbs ol {
+    padding-left: 30px;
+  }
+}
+
 .crumb {
   display: inline-block;
 }
